@@ -9,10 +9,7 @@ Klasa_auto::Klasa_auto()
     std::cout<<"Tworze obiekt "<<this<<std::endl;  
 };
 
-Klasa_auto::Klasa_auto(std::string _marka, std::string _typ):marka(_marka),typ(_typ)
-{  
-    
-}
+Klasa_auto::Klasa_auto(std::string _marka, std::string _typ):marka(_marka),typ(_typ){}
 
 Klasa_auto::~Klasa_auto()
 {
