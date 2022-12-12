@@ -1,0 +1,3 @@
+/home/ram/Projekty_C++/Programowanie_obiektowe/Klasa friend/build/CMakeFiles/app.dir
+/home/ram/Projekty_C++/Programowanie_obiektowe/Klasa friend/build/CMakeFiles/edit_cache.dir
+/home/ram/Projekty_C++/Programowanie_obiektowe/Klasa friend/build/CMakeFiles/rebuild_cache.dir
