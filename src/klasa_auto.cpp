@@ -11,6 +11,7 @@ Klasa_auto::Klasa_auto()
 
 Klasa_auto::Klasa_auto(std::string _marka, std::string _typ):marka(_marka),typ(_typ)
 {  
+    
 }
 
 Klasa_auto::~Klasa_auto()
@@ -30,6 +31,7 @@ void Klasa_auto::set_typ(std::string _typ)
 {
     this->typ=_typ;
 }
+
 void Klasa_auto::get_typ()
 {   
     std::cout<<"Typ  Auta "<<this->typ<<std::endl;

@@ -1,6 +1,8 @@
+#if !defined(KLASA_AUTO_H)
+#define KLASA_AUTO_H
 #include <iostream>
-#include <string>
-class Klasa_ciagnik;
+
+
 
 class Klasa_auto
 {
@@ -18,11 +20,10 @@ public:
     void set_typ(std::string);
     
     friend class Klasa_ciagnik;
-    
-    
-
-    
    
 };
+
+
+#endif // KLASA_AUTO_H
 
 
