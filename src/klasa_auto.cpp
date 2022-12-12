@@ -30,7 +30,7 @@ void Klasa_auto::set_typ(std::string _typ)
 {
     this->typ=_typ;
 }
-void Klasa_auto::get_typ()const
+void Klasa_auto::get_typ()
 {   
     std::cout<<"Typ  Auta "<<this->typ<<std::endl;
 }
